@@ -1,7 +1,7 @@
 # MSHK Partner technical enablement sessions
 To check latest upcoming session, please visit [HK Partner Hub](https://partner.microsoft.com/en-hk/community/hk-partner-hub/training-events)
 <br>
-Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://aka.ms/MSHKPLI)
+Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin.com/groups/10348707/)
 <br>
 <br>
 | Date | Title | Video URL | Deck URL |
