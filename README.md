@@ -1,5 +1,5 @@
 # MSHK Partner technical enablement sessions
-To check latest upcoming session, please visit [HK Partner Hub](https://partner.microsoft.com/en-hk/community/hk-partner-hub/training-events)
+To check latest upcoming session, please visit [Microsoft Events Catalog](https://events.microsoft.com/en-us/allevents/?clientTimeZone=1&search=Cantonese)
 <br>
 Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin.com/groups/10348707/)
 <br>
@@ -9,3 +9,4 @@ Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin
 | 2023/11/16 | Demystifying Azure Cognitive Search | https://youtu.be/6xbLrl8OtI8 | [20231116 Demystifying Azure Cognitive Search.pptx](decks/20231116%20Demystifying%20Azure%20Cognitive%20Search.pptx) |
 | 2023/12/07 | Azure OpenAI update & workshop Train-the-trainer | https://youtu.be/Cti4URc1soc | [20231207 Azure OpenAI update & workshop Train-the-trainer.pptx](decks/20231207%20Azure%20OpenAI%20update%20&%20workshop%20Train-the-trainer.pptx) |
 | 2024/03/21 | Mastering the Marketplace | https://youtu.be/u8m4cZOwenM | [20240321 Mastering the Marketplace.pptx](decks/20240321%20Mastering%20the%20Marketplace.pptx) |
+| 2024/04/25 | Microsoft AI ecosystem & AI Ochestration on Azure | https://youtu.be/98wjHZi8inU | [20240425 Microsoft AI ecosystem & AI Ochestration on Azure.pptx](decks/20240425%20Microsoft%20AI%20ecosystem%20&%20AI%20Ochestration%20on%20Azure.pptx) |
