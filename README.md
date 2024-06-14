@@ -11,3 +11,4 @@ Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin
 | 2024/03/21 | Mastering the Marketplace | https://youtu.be/u8m4cZOwenM | [20240321 Mastering the Marketplace.pptx](decks/20240321%20Mastering%20the%20Marketplace.pptx) |
 | 2024/04/25 | Microsoft AI ecosystem & AI Ochestration on Azure | https://youtu.be/98wjHZi8inU | [20240425 Microsoft AI ecosystem & AI Ochestration on Azure.pptx](decks/20240425%20Microsoft%20AI%20ecosystem%20&%20AI%20Ochestration%20on%20Azure.pptx) |
 | 2024/05/30 | AI Infrastructure & Small Language Models | https://youtu.be/Ao_4EBeD68g | [20240530 AI Infrastructure & Small Language Models.pptx](decks/20240530%20AI%20Infrastructure%20&%20Small%20Language%20Models.pptx) |
+| 2024/06/06 | Microsoft Build 2024 Cantonese Recap | https://youtu.be/A7CwS1boI10 | [20240606 Microsoft Build 2024 Cantonese Recap.pdf](decks/20240606%20Microsoft%20Build%202024%20Cantonese%20Recap.pdf) |
