@@ -6,6 +6,7 @@ Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin
 <br>
 | Date | Title | Video URL | Deck URL |
 |---|---|---|---|
+| 2024/10/24 | From Cloud to on-premises: Working with LLM, SLM and more | https://youtu.be/QU9tn-mkyJs | [20241024 From Cloud to on-premises Working with LLM, SLM and more.pptx](decks/20241024%20From%20Cloud%20to%20on-premises%20Working%20with%20LLM,%20SLM%20and%20more.pptx)
 | 2024/07/30 | Building a copilot: Azure AI Studio or Copilot Studio | https://youtu.be/fOYoGYRobiA | [20240730 Building a copilot Azure AI Studio or Copilot Studio.pptx](decks/20240730%20Building%20a%20copilot%20Azure%20AI%20Studio%20or%20Copilot%20Studio.pptx) |
 | 2024/06/06 | Microsoft Build 2024 Cantonese Recap | https://youtu.be/A7CwS1boI10 | [20240606 Microsoft Build 2024 Cantonese Recap.pdf](decks/20240606%20Microsoft%20Build%202024%20Cantonese%20Recap.pdf) |
 | 2024/05/30 | AI Infrastructure & Small Language Models | https://youtu.be/Ao_4EBeD68g | [20240530 AI Infrastructure & Small Language Models.pptx](decks/20240530%20AI%20Infrastructure%20&%20Small%20Language%20Models.pptx) |
