@@ -6,6 +6,8 @@ Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin
 <br>
 | Date | Title | Video URL | Deck URL |
 |---|---|---|---|
+| 2024/12/10 | Microsoft Ignite 2024 Cantonese Recap | https://youtu.be/1VRqD5lZgU0 | [20241210 Ignite 2024 Cantonese Recap.pptx](decks/20241210%20Ignite%202024%20Cantonese%20Recap.pptx)|
+| 2024/11/19 | Operationalize AI responsibly with Azure | https://youtu.be/hwQzfLocie0 | [20241119 Operationalize AI responsibly with Azure.pptx](decks/20241119%20Operationalize%20AI%20responsibly%20with%20Azure.pptx)
 | 2024/10/31 | AI Partnership Program - Azure Briefing | https://youtu.be/pHuszvQHjYc | [Azure Intro.pptx](decks/20241031%20AI%20Partnership%20Program%20-%20Azure%20Intro.pptx)<BR>[Azure Data & AI.pptx](decks/20241031%20AI%20Partnership%20Program%20-%20Azure%20Data%20&%20AI.PPTX)
 | 2024/10/24 | From Cloud to on-premises: Working with LLM, SLM and more | https://youtu.be/QU9tn-mkyJs | [20241024 From Cloud to on-premises Working with LLM, SLM and more.pptx](decks/20241024%20From%20Cloud%20to%20on-premises%20Working%20with%20LLM,%20SLM%20and%20more.pptx)
 | 2024/07/30 | Building a copilot: Azure AI Studio or Copilot Studio | https://youtu.be/fOYoGYRobiA | [20240730 Building a copilot Azure AI Studio or Copilot Studio.pptx](decks/20240730%20Building%20a%20copilot%20Azure%20AI%20Studio%20or%20Copilot%20Studio.pptx) |
