@@ -6,6 +6,8 @@ Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin
 <br>
 | Date | Title | Video URL | Deck URL |
 |---|---|---|---|
+| 2025/04/03 | Exploring Agentic Systems and Multi-Agent Architectures | https://youtu.be/gJizalYAJ6Q | [20250326 Exploring Agentic Systems and Multi-Agent Architectures.pptx](https://storageenablemensession.z7.web.core.windows.net/20250326%20Exploring%20Agentic%20Systems%20and%20Multi-Agent%20Architectures.pptx) |
+| 2025/01/09 | Azure CSP AI BoostUp Camp | https://github.com/mshk-gps-partner-technical/2025-csp-azure-ai-boostup-camp ||
 | 2024/12/10 | Microsoft Ignite 2024 Cantonese Recap | https://youtu.be/1VRqD5lZgU0 | [20241210 Ignite 2024 Cantonese Recap.pptx](decks/20241210%20Ignite%202024%20Cantonese%20Recap.pptx)|
 | 2024/11/19 | Operationalize AI responsibly with Azure | https://youtu.be/hwQzfLocie0 | [20241119 Operationalize AI responsibly with Azure.pptx](decks/20241119%20Operationalize%20AI%20responsibly%20with%20Azure.pptx)
 | 2024/10/31 | AI Partnership Program - Azure Briefing | https://youtu.be/pHuszvQHjYc | [Azure Intro.pptx](decks/20241031%20AI%20Partnership%20Program%20-%20Azure%20Intro.pptx)<BR>[Azure Data & AI.pptx](decks/20241031%20AI%20Partnership%20Program%20-%20Azure%20Data%20&%20AI.PPTX)
