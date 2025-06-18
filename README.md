@@ -1,11 +1,13 @@
 # MSHK Partner technical enablement sessions
-To check latest upcoming session, please visit [Microsoft Events Catalog](https://events.microsoft.com/en-us/allevents/?clientTimeZone=1&search=Cantonese)
+To check latest upcoming sessions, join our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin.com/groups/10348707/)
 <br>
-Or joining our [Microsoft Hong Kong Partner LinkedIn Group](https://www.linkedin.com/groups/10348707/)
+<br>
+Besides Cantonese sessions, subscribe [Partner Skilling Program Newsletter](https://nam.dcv.ms/CReObz5o14) to get more skilling resources for partners.
 <br>
 <br>
 | Date | Title | Video URL | Deck URL |
 |---|---|---|---|
+| 2025/06/13 | Microsoft Build 2025 Cantonese Recap | https://youtu.be/RxkCLgtIe4Q | [20250613 Microsoft Build 2025 Cantonese Recap](https://storageenablemensession.z7.web.core.windows.net/20250613%20Microsoft%20Build%202025%20Cantonese%20Recap.pptx) |
 | 2025/04/16 | The Full Potential of Copilot Studio and Azure AI | https://youtu.be/5VSZ0bjQfyQ | [20250416 The Full Potential of Copilot Studio and Azure AI.pptx](https://storageenablemensession.z7.web.core.windows.net/20250416%20The%20Full%20Potential%20of%20Copilot%20Studio%20and%20Azure%20AI.pptx) |
 | 2025/04/03 | Exploring Agentic Systems and Multi-Agent Architectures | https://youtu.be/gJizalYAJ6Q | [20250326 Exploring Agentic Systems and Multi-Agent Architectures.pptx](https://storageenablemensession.z7.web.core.windows.net/20250326%20Exploring%20Agentic%20Systems%20and%20Multi-Agent%20Architectures.pptx) |
 | 2025/01/09 | Azure CSP AI BoostUp Camp | https://github.com/mshk-gps-partner-technical/2025-csp-azure-ai-boostup-camp ||
